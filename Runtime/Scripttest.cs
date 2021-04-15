@@ -7,7 +7,7 @@ public class Scripttest : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        // NUOVO
     }
 
     // Update is called once per frame
